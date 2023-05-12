@@ -1,0 +1,35 @@
+version: "0.2"
+ignorePaths:
+  - archive
+  - dist
+  - node_modules
+dictionaries:
+  - en_US
+  - softwareTerms
+  - bash
+  - node
+  - npm
+  - html
+  - css
+  - typescript
+  - filetypes
+words:
+  - astro
+  - astrojs
+  - autosize
+  - clsx
+  - dqbd
+  - eventsource
+  - heroicons
+  - mathjax
+  - npmmirror
+  - preinstall
+  - rehype
+  - supabase
+  - supersub
+  - tabler
+  - tailwindcss
+  - tiktoken
+  - tsconfigs
+ignoreWords:
+  - trivago
